@@ -1,0 +1,21 @@
+removed,scenario,mean_R_increase_pct,median_R_increase_pct,max_R_increase_pct,most_affected_pair,efficiency_change_pct,rank_by_mean_R_increase
+3905,core not shorted (landscape kept),4.4939,2.7926,11.0496,3907 / 4559,0.0201,3
+3905,habitat loss: core cells at max resistance,5.4256,3.3616,13.5528,3907 / 4559,-0.0612,4
+3906,core not shorted (landscape kept),3.0798,1.0889,22.3931,3907 / 4142,-0.0252,5
+3906,habitat loss: core cells at max resistance,5.5673,1.9937,40.1519,3907 / 4142,-0.0142,3
+3907,core not shorted (landscape kept),108.4281,0.7066,2932.6698,3905 / 4141,-78.9185,1
+3907,habitat loss: core cells at max resistance,1409.4016,5.698,45410.9625,3905 / 4141,-82.6786,1
+4141,core not shorted (landscape kept),0.4808,0.2087,3.6345,3907 / 4142,-0.0655,7
+4141,habitat loss: core cells at max resistance,0.7865,0.354,5.7251,3907 / 4142,-0.1306,8
+4142,core not shorted (landscape kept),0.2991,0.3025,0.7586,3906 / 4556,-0.1433,9
+4142,habitat loss: core cells at max resistance,0.9673,0.9731,2.6323,3906 / 4556,-0.0503,7
+4501,core not shorted (landscape kept),6.9215,0.1669,49.8024,4559 / 4560,-0.0292,2
+4501,habitat loss: core cells at max resistance,8.2747,0.2105,58.894,4559 / 4560,-0.0223,2
+4556,core not shorted (landscape kept),0.3112,0.3088,0.7618,3906 / 4558,0.002,8
+4556,habitat loss: core cells at max resistance,0.6638,0.6616,1.7327,3906 / 4558,0.0297,9
+4558,core not shorted (landscape kept),1.4608,1.5509,6.0035,4556 / 4559,0.0198,6
+4558,habitat loss: core cells at max resistance,1.623,1.7211,6.6603,4556 / 4559,0.0332,6
+4559,core not shorted (landscape kept),4.2675,4.8127,10.306,4501 / 4556,-0.0252,4
+4559,habitat loss: core cells at max resistance,5.0864,5.7095,11.8698,4501 / 4556,-0.089,5
+4560,core not shorted (landscape kept),0.1081,0.0149,0.7785,4501 / 4558,0.0569,10
+4560,habitat loss: core cells at max resistance,0.188,0.026,1.3474,4501 / 4558,0.0507,10

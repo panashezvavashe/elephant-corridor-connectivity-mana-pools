@@ -1,0 +1,5 @@
+Resampling unit,n_clusters,B,auc_rf,auc_svm,auc_diff,tss_rf,tss_svm,tss_diff,p_auc_diff,p_tss_diff
+"Individual (LOIO predictions, resample collars)",10,2000,0.732 (0.532 to 0.898),0.658 (0.445 to 0.838),0.074 (0.044 to 0.120),0.436 (0.168 to 0.669),0.372 (0.119 to 0.597),0.064 (0.033 to 0.093),0.0,0.0
+"Spatial block (buffered block-CV predictions, resample 25 km blocks)",18,2000,0.653 (0.564 to 0.747),0.585 (0.434 to 0.691),0.068 (-0.002 to 0.145),0.165 (0.029 to 0.350),0.121 (-0.089 to 0.325),0.044 (-0.027 to 0.130),0.056,0.253
+"Spatial block (holdout, resample blocks)",18,2000,0.938 (0.894 to 0.963),0.881 (0.818 to 0.915),0.057 (0.044 to 0.078),0.733 (0.604 to 0.809),0.606 (0.469 to 0.683),0.126 (0.098 to 0.162),0.0,0.0
+"Per-collar LOIO AUC, Wilcoxon signed-rank (RF vs SVM)",10,RF > SVM in 9 of 10 collars,,,0.066 median,,,,0.00390625,

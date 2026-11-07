@@ -1,0 +1,11 @@
+collar,current_flow_betweenness,shortest_path_betweenness,closeness_effective_resistance,node_strength_conductance,old_complete_graph_betweenness,rank_current_flow_betweenness,rank_shortest_path_betweenness,rank_closeness_effective_resistance,rank_node_strength_conductance,sex
+3905,0.2781,0.4444,9.3479,9768.7927,0.3333,4,3,3,3,M
+3906,0.297,0.2778,9.3113,714.8776,0.1667,3,4,4,6,M
+3907,0.5044,0.5278,9.3514,54998.3926,0.4167,1,1,1,1,M
+4141,0.1219,0.0,9.3502,44592.5311,0.0,9,7,2,2,F
+4142,0.2077,0.1111,7.6421,22.0528,0.0,6,6,5,7,M
+4501,0.251,0.2222,5.3635,1637.6119,0.2222,5,5,9,4,M
+4556,0.172,0.0,5.5957,9.29,0.0,7,7,7,10,M
+4558,0.1352,0.0,5.3926,10.312,0.0,8,7,8,9,F
+4559,0.3397,0.5278,7.3162,16.9167,0.0556,2,1,6,8,F
+4560,0.0486,0.0,5.3522,1632.0289,0.0,10,7,10,5,M

@@ -1,0 +1,3 @@
+Model,AUC,TSS_default,TSS_nested_threshold,Accuracy,Precision,Recall,F1,Brier,AUC_CI,AUC_diff_RF_minus_SVM,Brier_CI,Brier_diff_RF_minus_SVM
+RF,0.9451,0.7567,0.7533,0.8783,0.8806,0.8753,0.878,0.0941,0.937-0.953,+0.054 (+0.046 to +0.063),0.088-0.100,-0.038 (-0.043 to -0.033)
+SVM,0.8907,0.636,0.6287,0.818,0.818,0.818,0.818,0.1319,0.879-0.902,,0.125-0.139,

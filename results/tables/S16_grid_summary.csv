@@ -1,0 +1,3 @@
+Model,combinations,best_params_wide_grid,best_CV_AUC,current_params,current_CV_AUC,current_rank_in_wide_grid,CV_AUC_gain,holdout_AUC_best,holdout_AUC_current
+RF,72,"{""max_depth"": 20, ""max_features"": 0.5, ""min_samples_split"": 2, ""n_estimators"": 500}",0.9348,"{""n_estimators"": 300, ""max_depth"": null, ""min_samples_split"": 5, ""max_features"": ""sqrt""}",0.9288,38,0.006,0.9451,0.9368
+SVM,25,"{""C"": 100, ""gamma"": 0.1, ""kernel"": ""rbf""}",0.8762,"{""C"": 10, ""gamma"": 0.1, ""kernel"": ""rbf""}",0.8723,3,0.0038,0.8907,0.8841

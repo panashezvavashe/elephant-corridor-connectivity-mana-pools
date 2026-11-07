@@ -1,0 +1,3 @@
+Model,cells_90m,Spearman_rho,Pearson_r_log10,Jaccard_top10pct,Jaccard_top20pct,pinch_Jaccard_450m_neighbourhood,share_90m_pinch_cells_also_pinch_at_30m
+RF,184677,0.9946,0.9957,0.9245,0.9225,0.486,0.9978
+SVM,184677,0.9925,0.9925,0.9063,0.9164,0.4633,0.9986

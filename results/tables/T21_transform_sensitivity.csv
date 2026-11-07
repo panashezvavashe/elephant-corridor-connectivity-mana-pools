@@ -1,0 +1,8 @@
+Resistance transform,Comparison,Spearman_rho,Pearson_r_log10,Jaccard_top10pct,Jaccard_top20pct,pinch_Jaccard_median_5x5,pinch_Jaccard_top10_5x5,RF_resistance_p90_p10_ratio,RF_current_top10pct_share_of_total,SVM_resistance_p90_p10_ratio,SVM_current_top10pct_share_of_total
+linear (1 − P),RF vs SVM,0.9031,0.9392,0.4849,0.5688,0.3913,0.2881,3.5682,0.2402,3.8845,0.2229
+"negative exponential, c = 4",RF vs SVM,0.8488,0.9056,0.4515,0.5414,0.3707,0.3109,17.6166,0.2923,16.6308,0.2817
+"negative exponential, c = 8",RF vs SVM,0.7865,0.853,0.4266,0.5112,0.3646,0.3126,56.384,0.3249,46.8493,0.3137
+"negative exponential, c = 4",RF: transform vs linear,0.933,0.9581,0.6576,0.708,0.7178,0.6204,,,,
+"negative exponential, c = 4",SVM: transform vs linear,0.9294,0.9512,0.6666,0.7332,0.7345,0.6484,,,,
+"negative exponential, c = 8",RF: transform vs linear,0.8425,0.8791,0.5297,0.6196,0.5902,0.4516,,,,
+"negative exponential, c = 8",SVM: transform vs linear,0.836,0.8786,0.5376,0.6365,0.5931,0.479,,,,

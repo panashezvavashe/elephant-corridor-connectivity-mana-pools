@@ -1,0 +1,8 @@
+Test,Model,n,observed_share,expected_share,enrichment,p,enrichment_CI,collars_enriched
+"A: 1,000 random fixes vs study-area share (submitted design)",RF,1000,0.86,0.23936,3.59297,0.0,,
+"A: 1,000 random fixes vs study-area share (submitted design)",SVM,1000,0.81,0.27637,2.9309,0.0,,
+B: one fix per collar-day vs study-area share,RF,14591,0.82544,0.23936,3.44858,0.0,,
+B: one fix per collar-day vs study-area share,SVM,14591,0.7676,0.27637,2.77747,0.0,,
+C: per-collar use vs own AKDE95 availability (collars as units),RF,10 collars,0.82879,0.53329,1.6882,0.00098,1.383-2.094,10 of 10
+C: per-collar use vs own AKDE95 availability (collars as units),SVM,10 collars,0.77701,0.53411,1.52864,0.00098,1.329-1.796,10 of 10
+"C: RF vs SVM enrichment, paired across collars (Wilcoxon, two-sided)",RF-SVM,10 collars,,,1.10438,0.00977,,RF higher in 9 of 10

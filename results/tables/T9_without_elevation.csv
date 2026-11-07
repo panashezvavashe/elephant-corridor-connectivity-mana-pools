@@ -1,0 +1,3 @@
+Model,Holdout_AUC_with_elevation,Holdout_AUC_without_elevation,SpatialCV_AUC_without_elevation,Top3_without_elevation,Spearman_rank_RF_vs_SVM_importance
+RF,0.9451,0.905,0.6516,Dist_Built_Up (0.183); Dist_Perm_Water (0.112); Dist_Season_Water (0.059),0.782 (p = 0.004)
+SVM,0.8907,0.8579,0.572,Dist_Built_Up (0.158); Dist_Perm_Water (0.144); Dist_Season_Water (0.117),0.782 (p = 0.004)

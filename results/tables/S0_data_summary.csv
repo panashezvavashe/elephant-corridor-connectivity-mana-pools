@@ -1,0 +1,10 @@
+item,value
+raw fixes (11 collars),112272
+after removing 4557,107611
+after removing duplicate timestamps,107574
+presences drawn,5000
+validation pool,102574
+pseudo-absence candidates >= 500 m,47685
+pseudo-absences kept,5000
+date min,2020-03-29 23:50:00
+date max,2026-01-22 05:31:00

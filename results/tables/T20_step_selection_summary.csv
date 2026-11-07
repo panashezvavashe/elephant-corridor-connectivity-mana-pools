@@ -1,0 +1,5 @@
+covariate,mean_beta_across_collars,CI_collar_bootstrap,collars_positive,collars_sig_positive,collars_sig_negative,pooled_beta,pooled_loglik
+logcur_RF,0.7663,0.589 to 0.984,10,10,0,0.7977,-184180.4266
+logcur_SVM,0.7644,0.589 to 0.992,10,10,0,0.7892,-184323.1736
+res_RF,-0.9167,-1.108 to -0.710,0,0,10,-1.0226,-182366.3332
+res_SVM,-0.5847,-0.786 to -0.406,0,0,10,-0.5806,-183952.4401

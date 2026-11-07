@@ -1,0 +1,11 @@
+,PC1,PC2
+Elevation,0.437,0.124
+Slope,0.419,-0.376
+TPI,0.037,-0.332
+TRI,0.408,-0.408
+Dist_Perm_Water,0.316,0.495
+Dist_Season_Water,0.281,0.495
+Wet_NDVI,0.384,0.011
+Dry_NDVI,0.284,-0.201
+Dist_Built_Up,0.235,0.18
+Nighttime_Lights,0.055,-0.061

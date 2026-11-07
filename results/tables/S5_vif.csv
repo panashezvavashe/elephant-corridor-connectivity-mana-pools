@@ -1,0 +1,11 @@
+Predictor,VIF
+Elevation,1.7
+Slope,38.73
+TPI,1.09
+TRI,37.39
+Dist_Perm_Water,3.1
+Dist_Season_Water,2.88
+Wet_NDVI,2.88
+Dry_NDVI,2.69
+Dist_Built_Up,1.13
+Nighttime_Lights,1.01

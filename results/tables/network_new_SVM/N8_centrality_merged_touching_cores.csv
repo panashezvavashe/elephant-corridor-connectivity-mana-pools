@@ -1,0 +1,7 @@
+merged_node,current_flow_betweenness,shortest_path_betweenness,closeness_effective_resistance,node_strength_conductance
+3905+3906+3907+4141,0.3227,0.3,6.9272,21.4499
+4142,0.2149,0.1,6.4851,19.4667
+4501+4560,0.1031,0.0,5.007,8.0187
+4556,0.2208,0.0,5.9178,10.0079
+4558,0.2001,0.2,6.0534,11.4506
+4559,0.4142,0.6,7.5524,17.6546
